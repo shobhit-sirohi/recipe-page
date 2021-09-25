@@ -51,6 +51,6 @@ $ git clone https://github.com/shobhit-sirohi/recipe-page
 
 ## Contact
 
-- Website [your-website.com](https://shobhitsirohi.com)
-- GitHub [@your-username](https://github.com/shobhit-sirohi)
-- Twitter [@your-twitter](https://twitter.com/ShobhitSirohi)
+- Website (https://shobhitsirohi.com)
+- GitHub (https://github.com/shobhit-sirohi)
+- Twitter (https://twitter.com/ShobhitSirohi)
