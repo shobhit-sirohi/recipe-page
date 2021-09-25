@@ -51,6 +51,6 @@ $ git clone https://github.com/shobhit-sirohi/recipe-page
 
 ## Contact
 
-- Website (https://shobhitsirohi.com)
+- Portfolio (https://shobhitsirohi.com)
 - GitHub (https://github.com/shobhit-sirohi)
 - Twitter (https://twitter.com/ShobhitSirohi)
