@@ -26,7 +26,7 @@
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/21247694/134773814-eee91eb0-030c-4fd6-a5a4-78aed9cb2340.gif)
 <img width="1440" alt="Screenshot 2021-09-25 at 7 18 44 PM" src="https://user-images.githubusercontent.com/21247694/134773961-8e85e708-1229-40b3-ab45-2ae854dc69ca.png">
 
-<img width="1440" alt="Screenshot 2021-09-25 at 7 18 44 PM" src="./src/images/photo1.png">
+
 
 
 
